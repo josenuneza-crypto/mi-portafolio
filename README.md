@@ -1,7 +1,12 @@
 # Mi portafolio
 
-Trabajos del curso Diseno de Interfaces de Programacion Avanzado. ## Sobre mi
-Estudiante de Diseno y Desarrollo de Software en Tecsup. ## Contenido
+Trabajos del curso Diseno de Interfaces de Programacion Avanzado.
+
+## Sobre mi
+
+Estudiante de Diseno y Desarrollo de Software en Tecsup.
+
+## Contenido
 
 ### Trabajos del modulo 1
 
@@ -9,11 +14,15 @@ Estudiante de Diseno y Desarrollo de Software en Tecsup. ## Contenido
 
 - **Git** para el control de versiones
 - **GitHub** para el repositorio remoto
-- _Visual Studio Code_ como editor ## Pasos para clonar este proyecto
+- _Visual Studio Code_ como editor
+
+## Pasos para clonar este proyecto
 
 1. Copiar la direccion desde el boton Code
-2. Ejecutar git clone con esa direccion
-3. Entrar a la carpeta con cd ## Mi avance del modulo
+2. Ejecutar `git clone` con esa direccion
+3. Entrar a la carpeta con `cd`
+
+## Mi avance del modulo
 
 - [x] Laboratorio 01: Git basico
 - [x] Laboratorio 03: Trabajo colaborativo
@@ -32,8 +41,10 @@ Estudiante de Diseno y Desarrollo de Software en Tecsup. ## Contenido
 
 Para ver el estado del proyecto uso `git status`.
 
-```bash git add .
-git commit -m "Actualiza el README" git push origin main
+```bash
+git add .
+git commit -m "Actualiza el README"
+git push origin main
 ```
 
 | Comando | Que hace |
